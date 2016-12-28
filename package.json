@@ -1,0 +1,19 @@
+{
+  "name": "basic_portfolio",
+  "version": "1.0.0",
+  "description": "UT Bootcamp Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clo2go/basic_portfolio.git"
+  },
+  "author": "Carlos Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clo2go/basic_portfolio/issues"
+  },
+  "homepage": "https://github.com/clo2go/basic_portfolio#readme"
+}
